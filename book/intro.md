@@ -5,7 +5,7 @@ _Write book intro here. This is the first page the student will see when opening
 
 This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
 
-``` {figure} figures/figuur1.jpg
+``` {figure} figures/Afbeelding1.jpg
 ---
 width: 50%
 name: fig_mijneerstefiguur
