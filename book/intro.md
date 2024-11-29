@@ -10,5 +10,5 @@ This book can be used as a template for other books. It includes a starter packa
 width: 50%
 name: fig_mijneerstefiguur
 ---
-add bestand in de folder
+Krachten op een helling
 ```
