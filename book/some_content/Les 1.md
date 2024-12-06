@@ -14,12 +14,12 @@ $$
 <!-- https://tud-seed.github.io/betasteunpunt/main/Software/Github.html -->
 
 <div style="display: flex; justify-content: center;">
-    <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
-        <iframe width="937" 
-        height="527" 
+    <div style="position: relative; width: 50%; height: 0; padding-bottom: 60%;">
+        <iframe width="437" 
+        height="327" 
         src="https://www.youtube.com/embed/TJmgKdc7H34" 
         title="I never understood why everything moves at the speed of light... until now!" 
-        frameborder="0" 
+        frameborder="1" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
         allowfullscreen
         ></iframe>
@@ -27,6 +27,7 @@ $$
 </div>
 
 
+Dit is een weergave
 
     
 

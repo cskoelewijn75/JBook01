@@ -6,9 +6,9 @@ parts:
     chapters:
     - file: some_content/overview.md
       sections:
-      - file: some_content/text_and_code.ipynb
       - file: some_content/Les 1.md
       - file: some_content/Les 2.md
+      - file: some_content/text_and_code.ipynb
     - file: references.md
     - file: changelog.md
     - file: credits.md
