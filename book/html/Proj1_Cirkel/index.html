@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/addons/p5.dom.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+    <title>Roteren om een cirkel</title>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  </head>
+  <body>
+    
+<div id = "invoer" class = "mijnDivs">
+  
+  
+  <label><i>r</i><sub>1</sub> : <i>r</i><sub>2</sub> = </label> <span id="r1r2"></span>
+  <br>
+
+  <table border="0">
+    <colgroup>
+      <col style="width: 150px;">
+      <col style="width: 20px;">
+      <col style="width: 150px;">
+      <!-- Je kunt zoveel <col> tags toevoegen als het aantal kolommen in je tabel -->
+  </colgroup>
+  <tr>
+    <td><input type="range" id="sld1" name="sld1" min="0" max="80" value="60" step="2" title = "radius 1"></td>
+    <td></td>
+    <td><input type="number" id="invSld1" name="invSld1" step="0.1" min="0" max="4" value="3" onkeypress="handleKeyPress(event)"></td>
+
+  </tr>
+  <tr>
+    <td><input type="range" id="sld2" name="sld2" min="0" max="80" value="20" step="2" title = "radius 2"></td>
+    <td></td>
+    <td><input type="number" id="invSld2" name="invSld1" step="0.1" min="0" max="4" value="1" onkeypress="handleKeyPress(event)"></td>
+
+  </tr>
+    <tr>
+      <td><label for="chbSpoor">Spoor:
+        <input type="checkbox" id="chbSpoor" ></label></td>
+      <td></td>
+      <td><label for="chbHoek_t1" title="Rotatiehoek van de voerstraal van de rolcirkel.">Hoek <span class = "symt1">&theta;<sub>1</sub></span>:
+        <input type="checkbox" id="chbHoek_t1" checked ></label><input type="checkbox" id="chbSymt1"></td>
+
+    </tr>
+    <tr>
+      <td><label for="chbAssen">Assenstelsel:
+        <input type="checkbox" id="chbAssen" checked ></label></td>
+      <td></td>
+      <td><label for="chbHoek_t2" title="Rotatiehoek van de rolcirkel om zijn eigen as, relatief (t.o.v. de voerstraal).">Hoek <span class = "symt2">&theta;<sub>2</sub></span>:
+        <input type="checkbox" id="chbHoek_t2" checked ></label><input type="checkbox" id="chbSymt2"></td>
+
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td><label for="chbHoek_a2" title = "Rotatiehoek van de rolcirkel om zijn eigen as, absoluut.">Hoek <span class = "syma2">&alpha;</span>:
+        <input type="checkbox" id="chbHoek_a2" ></label><input type="checkbox" id="chbSyma2"></td>
+
+    </tr>
+    <tr>
+      <td><label for="chbPijl" title="Toont Pijl in de rolcirkel.">Pijl:
+        <input type="checkbox" id="chbPijl" checked ></label></td>
+      <td></td>
+      <td><label for="chbCirkel1" title="Toont stationaire cirkel.">Cirkel 1:
+        <input type="checkbox" id="chbCirkel1" checked ></label></td>
+
+    </tr>
+    <tr>
+      <td><label for="chbVoerstraal" title="Toont de voerstraal van de rolcirkel.">Voerstraal:
+        <input type="checkbox" id="chbVoerstraal" checked ></label></td>
+      <td></td>
+      <td><label for="chbCirkel2" title="Toont rolcirkel.">Cirkel 2:
+        <input type="checkbox" id="chbCirkel2" checked ></label></td>
+
+    </tr>
+    <tr>
+      <td><label for="chbReflijn" title="Toont de referentielijn van hoek &alpha;.">Ref.lijn <span class = "syma2">&alpha;</span>:
+        <input type="checkbox" id="chbReflijn"></label></td>
+      <td></td>
+      <td><label for="chbCirkel2pnt" title="Toont punten op de rolcirkel.">Punten:
+        <input type="checkbox" id="chbCirkel2pnt" checked ></label></td>
+ 
+    </tr>
+    <tr>
+      <td><label for="chbSpaak1" title="Toont spaken in de rolcirkel.">Spaak1:
+        <input type="checkbox" id="chbSpaak1" ></label></td>
+      <td></td>
+      <td><label for="chbOmtrek_a2" title="Toont de omtrek van hoek alpha.">Omtrek <span class = "syma2">&alpha;</span>:
+        <input type="checkbox" id="chbOmtrek_a2" name="optOmtrek" ></label></td>
+
+    </tr>
+    <tr>
+      <td><label for="chbSpaak2" title="Toont spaken in de rolcirkel.">Spaak2:
+        <input type="checkbox" id="chbSpaak2" ></label></td>
+      <td></td>
+      <td><label for="chbContactspoor" title="Toont de omtrek van hoek &theta;">Omtrek &theta;<sub>2</sub>:
+        <input type="checkbox" id="chbContactspoor" name="optOmtrek" checked ></label></td>
+
+    </tr>
+
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+
+    </tr>    
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+
+    </tr>
+  </table>
+
+
+  <br> 
+  <p><button onclick="wisSpoor()">Wis spoor</button>
+  <button onclick="toggleInfo()">Info</button></p>
+
+</div>
+
+
+<div id = "titel"></div>
+<div id = "tekenvak">
+  <span class = "symt1" id = "t1">\[ &theta;_1 \]</span>
+  <span class = "symt2" id = "t2">\[ &theta;_2 \]</span> 
+  <span class = "syma2" id = "a2">\[ &alpha;   \]</span> 
+</div>
+
+<div id = "uitvoer" class="mijnDivs" style="display: none;">
+  <label>Totaal:</label>
+  <table border="0" id = "uitvTable1">
+    <colgroup>
+      <col style="width: 100px;">
+      <col style="width: 100px;">
+      <col style="width: 70px;">
+      <col style="width: 65px;">
+      <col style="width: 100px;">
+  </colgroup>
+    <tr>
+      <td><label class = "symt1" title = "Rotatiehoek van de voerstraal van de rolcirkel."><i>&theta;</i><sub>1</sub> = <span id="hoek_t1">0</span>&deg;</label></td>
+      <td><label> = <span id="rad_t1">0</span> rad</label></td>
+      <td><label title = "Straal van de basiscirkel."><i>r</i><sub>1</sub> = <span id="r1">0</span></label></td>
+      <td><label><i>s</i><sub>1</sub> = <i>&theta;</i><sub>1</sub><i>r</i><sub>1</sub> </label></td>
+      <td><label>= <span id="s1">0</span></label></td>
+    </tr>
+    <tr>
+      <td><label class = "symt2" title = "Rotatiehoek van de rolcirkel om zijn eigen as, relatief (t.o.v. de voerstraal)."><i> &theta;</i><sub>2</sub> = <span id="hoek_t2">0</span>&deg; </label></td>
+      <td><label> = <span id="rad_t2">0</span> rad</label></td>
+      <td><label title = "Straal van de rolcirkel." ><i>r</i><sub>2</sub> = <span id="r2">0</span></label></td>
+      <td><label><i>s</i><sub>2</sub> = <i>&theta;</i><sub>2</sub><i>r</i><sub>2</sub> </label></td>
+      <td><label>= <span id="s2">0</span></label></td>
+    </tr>
+    <tr>
+      <td><label class = "syma2" title = "Rotatiehoek van de rolcirkel om zijn eigen as, absoluut."><i> &alpha;</i> = <span id="hoek_a2">0</span>&deg; </label></td>
+      <td><label> = <span id="rad_a2">0</span> rad</label></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table> 
+  <br>
+  
+  <table border="0" id = "uitvTable2">
+    <colgroup>
+      <col style="width: 100px;">
+      <col style="width: 100px;">
+      <col style="width: 100px;">
+      <col style="width: 100px;">
+      <col style="width: 100px;">
+  </colgroup>
+    <tr>
+      <td class="overflow"><label>Gereduceerd:</label></td>
+      <td></td>
+      <td class="overflow"><label>Aantal rotaties:</label></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><label class = "symt1" title = "Rotatiehoek van de voerstraal van de rolcirkel."><i>&theta;</i><sub>1</sub> = <span id="hoek_t1ger">0</span>&deg;</label></td>
+      <td><label> = <span id="rad_t1ger">0</span> rad</label></td>
+      <td><label title = "Aantal rotaties van de voerstraal."><i>N</i><sub><i>&theta;</i><sub>1</sub></sub> = <span id="nt1">0 </label></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><label class = "symt2" title = "Rotatiehoek van de rolcirkel om zijn eigen as, relatief (t.o.v. de voerstraal)."><i> &theta;</i><sub>2</sub> = <span id="hoek_t2ger">0</span>&deg; </label></td>
+      <td><label> = <span id="rad_t2ger">0</span> rad</label></td>
+      <td><label title = "Aantal rotaties van de rolcirkel t.o.v. de voerstraal."><i>N</i><sub><i>&theta;</i><sub>2</sub></sub> = <span id="nt2">0 </label></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><label class = "syma2" title = "Rotatiehoek van de rolcirkel om zijn eigen as, absoluut."><i> &alpha;</i> = <span id="hoek_a2ger">0</span>&deg; </label></td>
+      <td><label> = <span id="rad_a2ger">0</span> rad</label></td>
+      <td><label title = "Aantal rotaties van de rolcirkel t.o.v. het assenstelsel."><i>N</i><sub><i>&alpha;</i><sub>2</sub></sub> = <span id="na2">0 </label></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </table> 
+  
+</div>
+        
+<div id = "uitleg" class="mijnDivs">
+  <label>Ctrl = reset </label><br>
+  <label>',' = linksom draaien</label><br>
+  <label>'.' = rechtsom draaien</label>
+</div>
+
+
+<script src="sketch.js"></script>
+ 
+        
+
+  </body>
+</html>

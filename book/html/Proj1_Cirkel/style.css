@@ -1,0 +1,104 @@
+html, body {
+    display: grid;
+    grid-template-columns: 20vw auto 20vw;
+    grid-template-rows: auto 20vw auto auto;
+    margin-left: 0px;
+    padding: 0;
+    font-family:  "Arial", sans-serif;
+    background-color: rgb(200, 250, 200);
+
+        /* Voorkomt selectie van tekst op de hele pagina */
+        user-select: none; /* Standaard */
+        -moz-user-select: none; /* Voor Firefox */
+        -webkit-user-select: none; /* Voor Chrome, Safari en Opera */
+        -ms-user-select: none; /* Voor Internet Explorer */
+  }
+  canvas {
+    display: block;
+    margin-left: 0px;
+    border: 3px solid;
+
+  }
+  table {
+    border-collapse: collapse;
+    table-layout: fixed; 
+    /* border: none; Verwijder de rand van de tabel */
+}
+#uitvTable1{
+  width: 500px; /* Specificeer de gewenste breedte van de tabel */
+}
+#uitvTable2{
+  width: 500px; /* Specificeer de gewenste breedte van de tabel */
+}
+
+  th, td {
+    border: 1px solid #ddd;
+    padding: 4px;
+    text-align: left;
+    white-space: nowrap; /* Voorkomt dat tekst naar de volgende regel gaat */
+    overflow: hidden; /* Verbergt de overflow */
+    text-overflow: ellipsis; /* Voegt "..." toe aan het einde van afgebroken tekst */
+    border: none; /* Verwijder de rand van de tabel */
+
+    
+}
+  .mijnDivs {
+    padding-left: 15px;
+    padding-top: 5px;
+  }
+  .overflow {
+    overflow: visible;
+    white-space: nowrap;
+  }
+
+
+
+  #invoer {
+    background-color: rgb(200, 250, 200);
+    grid-column: 1 / 2;
+    grid-row: 1 / 4;
+  }
+  /* #titel {
+    background-color: rgb(200, 250, 200);
+    grid-column: 2 / 4;
+    grid-row: 1 / 2;
+  } */
+  #tekenvak {
+    background-color: rgb(200, 250, 200);
+    grid-column: 2 / 3;
+    grid-row: 2 / 4;
+  }
+
+  #uitvoer {
+    background-color: rgb(200, 250, 200);
+    grid-column: 3 / 4;
+    grid-row: 2 / 3;
+  }
+  #uitleg {
+    background-color: rgb(200, 250, 200);
+    grid-column: 3 / 4;
+    grid-row: 3 / 4;
+  }
+
+
+  .symt1 {
+    color: red;
+  }
+  .symt2 {
+    color: blue;
+  }
+  .syma2 {
+    color:  rgb(255, 100, 0);
+  }
+
+  #hoek_t1 {
+    color: red;
+  }
+  #hoek_t2 {
+    color: blue;
+  }
+
+  #t1 {
+    position: relative;
+  }
+
