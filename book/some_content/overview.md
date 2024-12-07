@@ -4,7 +4,7 @@ Welkom pagina. Voor Sterrenkunde.
 
 
 
-``` {figure} figures/Sterrenkunde.JPG
+``` {figure} figures/Sterrenkunde.jpg
 ---
 width: 50%
 name: Kijk omhoog
