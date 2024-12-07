@@ -1,3 +1,14 @@
 # Samenvatting
 
-Hier wordt je stap voor stap meegenomen in het aanleren van Arduino programmeervaardigheden.
+Welkom pagina. Voor Sterrenkunde.
+
+
+
+``` {figure} figures/Sterrenkunde.JPG
+---
+width: 50%
+name: Kijk omhoog
+---
+add bestand in de folder
+```
+

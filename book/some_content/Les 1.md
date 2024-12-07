@@ -4,12 +4,9 @@ We leren eerst de abc-formule.
 
 $$ x_{12} = \frac{-b + \sqrt{b^{2}-4ac}}{2a} $$
 
-$$ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} $$ 
+<br><br>
 
-$$ 
-\begin{equation}
-\frac{a_{1} +b_{1}}{a^{2} +b^{2}}
-\end{equation} $$
+
 
 <!-- https://tud-seed.github.io/betasteunpunt/main/Software/Github.html -->
 
@@ -25,6 +22,7 @@ $$
         ></iframe>
     </div>
 </div>
+<br><br>
 
 
 Dit is een weergave
