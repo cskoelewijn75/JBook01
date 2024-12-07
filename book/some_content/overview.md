@@ -1,10 +1,7 @@
 # Samenvatting
 
 
-
-
-
-``` {figure} figures/IntroAfbeelding.jpg
+``` {figure} ../figures/Sterrenkunde.jpg
 ---
 width: 50%
 name: Introductie afbeelding
