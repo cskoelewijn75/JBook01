@@ -6,6 +6,7 @@ parts:
     chapters:
     - file: some_content/overview.md
       sections:
+      - file: some_content/Hoofdstuk1.md
       - file: some_content/Les 1.md
       - file: some_content/Les 2.md
       - file: some_content/text_and_code.ipynb
