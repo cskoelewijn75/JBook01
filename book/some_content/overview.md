@@ -4,11 +4,10 @@
 
 
 
-``` {figure} figures/Sterrenkunde.jpg
+``` {figure} figures/IntroAfbeelding.jpg
 ---
 width: 50%
-name: Kijk omhoog
+name: Introductie afbeelding
 ---
-Onderschrift figuur
+Onderschrift
 ```
-
