@@ -1,6 +1,6 @@
 # 1   Inleidend overzicht
 
-We leren eerst de abc-formule.
+De magnitude van een ster
 
 $$ x_{12} = \frac{-b + \sqrt{b^{2}-4ac}}{2a} $$
 
@@ -14,7 +14,7 @@ $$ x_{12} = \frac{-b + \sqrt{b^{2}-4ac}}{2a} $$
     <div style="position: relative; width: 50%; height: 0; padding-bottom: 60%;">
         <iframe width="437" 
         height="327" 
-        src="https://www.youtube.com/embed/TJmgKdc7H34" 
+        src="https://www.youtube.com/watch?v=nGnX6GkrOgk&ab_channel=VideoFromSpace" 
         title="I never understood why everything moves at the speed of light... until now!" 
         frameborder="1" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
@@ -24,8 +24,8 @@ $$ x_{12} = \frac{-b + \sqrt{b^{2}-4ac}}{2a} $$
 </div>
 <br><br>
 
-
+<div>
 Dit is een weergave
-
+</div>
     
 
