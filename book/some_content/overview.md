@@ -1,6 +1,6 @@
 # Samenvatting
 
-Welkom pagina. Voor Sterrenkunde.
+
 
 
 

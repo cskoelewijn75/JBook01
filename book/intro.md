@@ -1,14 +1,14 @@
 (intro)=
 # Welkom op dit leerboek
 
-_Write book intro here. This is the first page the student will see when opening the url._
+_Welkom pagina voor Sterrenkunde_
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
+Hier leren we de basisbegrippen.
 
-``` {figure} figures/Afbeelding1.jpg
+``` {figure} figures/IntroAfbeelding.jpg
 ---
 width: 50%
-name: fig_mijneerstefiguur
+name: Introductie afbeelding
 ---
-Krachten op een helling
+Onderschrift
 ```
