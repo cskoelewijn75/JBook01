@@ -9,6 +9,6 @@ Welkom pagina. Voor Sterrenkunde.
 width: 50%
 name: Kijk omhoog
 ---
-add bestand in de folder
+Onderschrift figuur
 ```
 
