@@ -6,13 +6,13 @@ parts:
     chapters:
     - file: Hoofdstuk1/overview.md
       sections:
-      - file: some_content/Hoofdstuk1.md
-      - file: some_content/Les 1.md
-      - file: some_content/text_and_code.ipynb
+      - file: Hoofdstuk1/Hoofdstuk1.md
+      - file: Hoofdstuk1/Les 1.md
+      - file: Hoofdstuk1/text_and_code.ipynb
     - file: Hoofdstuk2/overview.md
       sections:
-      - file: some_content/Hoofdstuk2.md
-      - file: some_content/Les 2.md
+      - file: Hoofdstuk2/Hoofdstuk2.md
+      - file: Hoofdstuk2/Les 2.md
 
     - file: references.md
     - file: changelog.md
