@@ -1,4 +1,4 @@
-# Samenvatting
+# Inleiding Hoofdstuk 2
 
 
 ``` {figure} ../figures/Sterrenkunde.jpg

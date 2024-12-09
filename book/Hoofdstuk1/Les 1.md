@@ -1,6 +1,5 @@
 # 1   Oefening
 
-## 1.1 Astronomie en astrofysica
 
 $$ x_{12} = \frac{-b + \sqrt{b^{2}-4ac}}{2a} $$
 
