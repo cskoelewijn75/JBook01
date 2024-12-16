@@ -6,10 +6,18 @@ parts:
     chapters:
     - file: Hoofdstuk1/overview.md
       sections:
-      - file: Hoofdstuk1/Hoofdstuk1.md
+      - file: Hoofdstuk1/Sectie1_1.md
+      - file: Hoofdstuk1/Sectie1_2.md
+
     - file: Hoofdstuk2/overview.md
       sections:
-      - file: Hoofdstuk2/Hoofdstuk2.md
+      - file: Hoofdstuk2/Sectie2_1.md
+      - file: Hoofdstuk2/Sectie2_2.md
+      - file: Hoofdstuk2/Sectie2_3.md
+      - file: Hoofdstuk2/Sectie2_4.md
+      - file: Hoofdstuk2/Sectie2_5.md
+      - file: Hoofdstuk2/Sectie2_6.md
+
     - file: Hoofdstuk3/overview.md
       sections:
       - file: Hoofdstuk3/Sectie3_1.md
@@ -19,7 +27,34 @@ parts:
       - file: Hoofdstuk3/Sectie3_5.md
       - file: Hoofdstuk3/Sectie3_6.md
       - file: Hoofdstuk3/Sectie3_7.md
-      - file: Hoofdstuk3/Sectie3_8.md      
+      - file: Hoofdstuk3/Sectie3_8.md 
+
+    - file: Hoofdstuk4/overview.md
+      sections:
+      - file: Hoofdstuk4/Sectie4_1.md
+      - file: Hoofdstuk4/Sectie4_2.md
+
+    - file: Hoofdstuk5/overview.md
+      sections:
+      - file: Hoofdstuk5/Sectie5_1.md
+      - file: Hoofdstuk5/Sectie5_2.md
+
+    - file: Hoofdstuk6/overview.md
+      sections:
+      - file: Hoofdstuk6/Sectie6_1.md
+      - file: Hoofdstuk6/Sectie6_2.md
+
+    - file: Hoofdstuk7/overview.md
+      sections:
+      - file: Hoofdstuk7/Sectie7_1.md
+      - file: Hoofdstuk7/Sectie7_2.md
+
+    - file: Hoofdstuk8/overview.md
+      sections:
+      - file: Hoofdstuk8/Sectie8_1.md
+      - file: Hoofdstuk8/Sectie8_2.md
+
+    
                   
     - file: Bijlagen/overview.md
       sections:
