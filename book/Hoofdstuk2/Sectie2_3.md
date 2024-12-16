@@ -1,0 +1,6 @@
+## § 2.3 De vorming van melkwegstelsels
+Men denkt dat melkwetelsels gevormd zijn door het instorten van kleine dichtheidsmaxi-ma in de materie. Zolang de materie sterk gekoppeld bleef met de straling, voorkwam de stralingsdruk het ontstaan van sterke concentraties in de geïoniseerde materig. Na de ontkoppeling kon de materie pas samenklonteren onder invloed van de zwaartekracht. Men weet niet welke structuren het eerst werden gevormd: melkwegstelsels of clusters. Tot nu toe zijn er twee verschillende theorieën over het verdere verloop:
+1.	Eerst ontstaan er grote massa-concentraties: de proto-superclusters. De enorme gaswolken koelen langzaam af storten in terwijl kleinere gedeelten van deze wolken zelf ook samentrekken: de proto-melkwegstelsels.
+2.	Eerst ontstaan er kleinere massa-concentraties: de proto-melkwegstelsels. Bij stelsels met een relatief groot impulsmoment vormen zich afgeplatte schijfvormige gaswolken. Bij stelsels met een relatief laag impulsmoment vindt er alzijdige samentrekking plaats, waardoor elfipsoïdale stelsels ontstaan. In beide gevallen treedt daarna weer verdere samenklontering: de protosterren.
+Terwijl dit proces gaande is, vormen zich langzamerhand de clusters doordat de sterrenstelsels elkaar aantrekken.
+

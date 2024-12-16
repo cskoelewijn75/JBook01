@@ -16,7 +16,11 @@ parts:
       - file: Hoofdstuk3/Sectie3_2.md
       - file: Hoofdstuk3/Sectie3_3.md
       - file: Hoofdstuk3/Sectie3_4.md
-
+      - file: Hoofdstuk3/Sectie3_5.md
+      - file: Hoofdstuk3/Sectie3_6.md
+      - file: Hoofdstuk3/Sectie3_7.md
+      - file: Hoofdstuk3/Sectie3_8.md      
+                  
     - file: Bijlagen/overview.md
       sections:
       - file: Bijlagen/Les_1.md

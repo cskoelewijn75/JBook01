@@ -1,4 +1,5 @@
 ## §3.3 Structuur van de planeten
+
 ### §3.3.1. De aardse planeten
 De structuur van de aardse planeten kan worden bestudeerd met aardbevingsgolven. Natuurlijk geldt dit vooral voor de Aarde. Verder is de gemiddetde dichtheid van de planeet een belangrijk gegeven. De planeten hebben waarschijnlijk allemaal een vloeibare fase meegemaakt, zodat de zwaardere stoffen meer naar het centrum toe liggen en de lichtere boven "drijven". Men neemt aan dat deze diffentiatie plaatsvond onmiddellijk na de vorming van de protoplaneet (zie ook §2.7). De benodigde enere werd enerzijds verkregen uit de potentiële zwaartekrachtsenergie bij het invangen van de materie door de protoplaneet en anderzijds door kernenergie die vrij kwam bij radio-aktief verval in de protoplaneet.
 De aardse planeten hebben een Fe-Ni-kern. Mercurius heeft de relatief grootste kern; Mars de kleinste. Rondom deze kern is een mantel, die bestaat uit silicaten (verbindingen van silicium). De dichtheid van de buitenste lagen is ongeveer 3000 
