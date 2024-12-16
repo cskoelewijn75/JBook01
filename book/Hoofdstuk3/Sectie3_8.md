@@ -44,12 +44,11 @@ v_\text{ont} = \sqrt{\frac{2GM_\text{A}}{R_\text{A}}}
 $$
 
 
-
 De molekulen in de atmosfeer van de Aarde hebben een kinetische enere die afhankelijk is van de temperatuur. Hoe hoger de temperatuur, des te hoger is de kinetische energie, en dus: des te hoger is de gemiddelde snelheid $v_\text{gem}$, van de molekulen, volgens de relatie:
 
 $$
 v_\text{gem} = \sqrt{\frac{3kT}{m}}
-$$
+$$ (formule)
 
 
 Met   
@@ -75,4 +74,7 @@ Tabel 13 Relevante gegevens voor de atmosfeer
 |Aarde	|11,2   |300	|1,9	|0,48   |
 |Maan	|2,4	|400    |2,2	|0,56   |
 
+
+
+Volgens formule {eq}`3_19`
 
