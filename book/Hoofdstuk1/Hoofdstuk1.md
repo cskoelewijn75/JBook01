@@ -1,4 +1,5 @@
-# 1   Inleidend overzicht
+
+# H1 Inleidend overzicht
 
 ## §1.1 Astronomie en astrofysica
 
@@ -95,5 +96,44 @@ Kijken we, vanuit de Aarde, naar links of naar rechts in ons melkwegstelsel dan 
 
 
 
+## §1.5 De plaats van ons sterrenstelsel in de 'lokale groep'. 
+Zo weten we dat direkt buiten ons sterrenstelsel (net zoals buiten ons zonnestelsel) de omringende ruimte vrijwel leeg is, afgezien van bolvormige sterrenhopen. We moeten met de lichtsnelheid 2,2 MILJOEN JAAR reizen om bij een ander goot sterrenstelsel te komen: **DE ANDROMEDANEVEL**. Deze naam is ongelukkig gekozen omdat het geen nevel is. Beter is het om te spreken van het Andromeda<u>stelsel</u>. 
+FOTO 1 achterin de syllabus toont dit sterrenstelseL Het is ongeveer 1,5 keer zo groot als ons eigen sterrenstelsel en bevat 5 keer zoveel sterren.
+FIGUUR 5: De lokale groep.
 
+
+Behalve het Andromedastelsel bevinden zich op een afstand van 5 miljoen lichtjaar om ons heen nog een twintigtal andere sterrenstelsels. De kleine en de grote Magelhaese wolken (ze heten wolken maar het zijn ook gewoon sterrenstelsels) zijn, naast de Andromedanevel, ook bekende stelsels. Ze bevinden zich op 'slechts' 200.000 lichtjaar van ons vandaan.(FIGUUR 5) Ons sterrenstelsel vormt, samen met het Andromedastelsel, de Magelhaese wolken en nog 20 andere stelsels, de zogenaamde **LOKALE GROEP**. In BINAS (tweede druk, niet in de derde!) kun je méér gegevens vinden over de lokale groep.
+
+
+## §1.6 De plaats van de 'lokale groep' in het Virgo-cluster.
+
+FIGUUR 6 Het supergalactiseh vlak is een denkbeeldig vlak loodrecht op het Melkwegvlak en door het Virgo-cluster. (de witte pijl geeft de positie van de zon aan). Ten gevolge van de aanwezigheid van de Melkweg zien we in een brede zone geen sterrenstelsels (vermijdingszone).
+
+
+In ons heelal bevinden zich, behalve ons sterrenstelsel, zo'n 10 MILJARD andere sterrenstelsels. En elk sterrensteLsel bestaat gemiddeld weer uit 100 miljard sterren. Behalve de lokale groep zijn er 'in de buurt' nog een aantal van die groepen. Sommigen van die groepen bestaan uit honderden sterrenstelsels. Onze groep blijkt, samen met die andere groepen, wéér in een grote poep te liggen. Zo'n <u>verzameling van groepen</u> wordt een **<u>CLUSTER</u>** genoemd. **Pas als een groep uit meer dan 100 stelsels bestaat wordt het een cluster genoemd**. Een cluster kan uit honderden groepen bestaan. Er bevinden zicn nog vele andere clusters om ons heen.
+De naam van 'ons' cluster is het 'Virgo'-cluster. Het belangrijkste gedeelte hiervan ligt op 70 miljoen lichtjaar van ons vandaan (zie figuur 6 en 7).
+
+FIGUUR 7 Een kaart van de lokale groep. De pflsities komen overeen met de projektie van de stelsels op het supergalactische vlak. Er is sprake van samenscholing rond de zwaarste leden.
+
+Ook clusters komen weer in groepen voor. Een groep van clusters wordt een **<u>SUPERCLUSTER</u>** genoemd. Een supercluster bestaat meestal uit 5 tot 10 clusters.
+Men heeft wel eens gedacht dat ons sterrenstelsel zich in het centrum van het heelal bevond. Men ontdekte namelijk dat hoe verder sterrenstelsels van ons vandaan waren, hoe groter de snelheid was waarmee ze zich van ons af bewogen. ( Er zijn sterrenstelsels gezien op zo'n 10 miljard Ij. van ons vandaan die zich met acht-tiende van de lichtsnelheid van ons af bewegen ! )
+Tegenwoordig weet men dat we geen bijzondere positie in het heelal innemen. We bewegen, samen met miljarden andere sterrenstelsels met enorme snelheid van elkaar af (zie figuur 8)
+
+FIGUUR 8. Bij uitdijing werden de afstanden tussen 1. 2 en 3 relatief evenveel vergroot
+
+## § 1.7 Vormen van sterrenstelsels. 
+Men onderscheidt ruwweg 3 vormen van sterrenstelsels:
+a.	**Spiraalstelsels**
+Dit zijn de grootste sterrenstelsels die er bestaan. Ze zijn vrij plat in de vorm van een schijf, de kern is wat dikker. Bij de zogenaamde 'balkspiralen' is de kern balkvormig. De schijf bestaat uit spiraalarmen, die rond het centrum van de kern zijn gewikkeld. 80% van de waargenomen sterrenstelsels is spiraalvormig, zo ook ons sterrenstelsel en het Andromedastelsel.
+
+b.	**Elliptische stelsels**
+De beste omschrijving voor een elliptisch stelsel is: een spiraalstelsel zonder armen. (Zie FIGUUR 9) Ze bestaan vrijwel alleen uit sterren en nauwelijks uit stof en gas. De mate van ellipsvormigheid verschilt van 0 tot 7 en is te vinden met de formule:
+10 ( a - b )/a
+(7 = maximaal-ellipsvormig). Elliptische stelsels vertonen weinig rotatie.
+
+FIGUUR 9: Soorten stelsels.
+
+
+c.	**Onregelmatige stelsels**
+Slechts 4% van de sterrenstelsels hebben geen regelmatige vorm. Voorbeelden hiervan zijn de al genoemde Magelhaense wolken. Dit stelsel beweegt zich om het centrum van het Melkwegstelsel en is door dit stelsel totaal gedeformeerd, zodat het als het ware een lange sliert langs de gemiddelde baan is geworden.
 

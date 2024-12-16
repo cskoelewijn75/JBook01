@@ -7,13 +7,20 @@ parts:
     - file: Hoofdstuk1/overview.md
       sections:
       - file: Hoofdstuk1/Hoofdstuk1.md
-      - file: Hoofdstuk1/Les 1.md
-      - file: Hoofdstuk1/text_and_code.ipynb
     - file: Hoofdstuk2/overview.md
       sections:
       - file: Hoofdstuk2/Hoofdstuk2.md
-      - file: Hoofdstuk2/Les 2.md
+    - file: Hoofdstuk3/overview.md
+      sections:
+      - file: Hoofdstuk3/Sectie3_1.md
+      - file: Hoofdstuk3/Sectie3_2.md
+      - file: Hoofdstuk3/Sectie3_3.md
+      - file: Hoofdstuk3/Sectie3_4.md
 
+    - file: Bijlagen/overview.md
+      sections:
+      - file: Bijlagen/Les_1.md
+      - file: Bijlagen/Les_2.md
     - file: references.md
     - file: changelog.md
     - file: credits.md
