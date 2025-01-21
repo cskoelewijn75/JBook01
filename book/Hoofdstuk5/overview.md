@@ -1,1 +1,1 @@
-# Hoofdstuk 5
+# Hoofdstuk 5 CLASSIFICATIE VAN STERREN

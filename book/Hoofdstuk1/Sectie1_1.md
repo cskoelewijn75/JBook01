@@ -27,6 +27,9 @@ De hele kleine meteoroïden worden zó sterk geremd door de atmosfeer, dat hun t
 
 Verder worden we soms verrast door een bezoek van een **komeet**.	
 Kometen worden ook 'Haarsterren' genoemd (Komètès is Grieks voor langharig) maar die naam is onjuist. Ook een komeet is geen ster maar een brok materie, bestaande uit steen, metaal, stof, ijs enz. Kometen bewegen in sterk excentrische banen rond de Zon (zie FIGUUR 2).
+
+![](../figures/Komeet.jpg)
+
 ``` {figure} ../figures/Komeet.jpg
 ---
 width: 80%

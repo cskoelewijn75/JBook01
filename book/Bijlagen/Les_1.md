@@ -1,7 +1,6 @@
 # 1   Oefening
 
 
-$$ x_{12} = \frac{-b + \sqrt{b^{2}-4ac}}{2a} $$
 
 <br><br>
 

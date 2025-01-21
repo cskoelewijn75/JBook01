@@ -75,6 +75,37 @@ Tabel 13 Relevante gegevens voor de atmosfeer
 |Maan	|2,4	|400    |2,2	|0,56   |
 
 
+    ```{list-table} Relevante gegevens voor de atmosfeer
+    :header-rows: 2
+    :name: atmosfeer
+    * - Lichaam
+      - $v_{\text{ont}}$ <br> ×10³ m/s
+      - $T$ <br> (K) 
+      - $v_{\text{gem}}$ <br> ×10³ m/s
+      - 
+    * - 
+      - 
+      -
+      - H₂
+      - O₂
+    * - Zon 
+      - 620                                       
+      - 6000
+      - 8,6
+      - 2,2
+    * - Aarde
+      - 11,2
+      - 300
+      - 1,9
+      - 0,48
+    * - Maan
+      - 2,4
+      - 400
+      - 2,2
+      - 0,56
+    ``` 
+
+
 
 Volgens formule {eq}`3_19`
 

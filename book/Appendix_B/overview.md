@@ -1,1 +1,1 @@
-# Appendix B
+# Appendix B Afstandsbepaling in de sterrenkunde

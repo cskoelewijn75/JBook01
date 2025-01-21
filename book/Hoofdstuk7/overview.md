@@ -1,1 +1,1 @@
-# Hoofdstuk 7
+# Hoofdstuk 7 BIJZONDERE STERREN

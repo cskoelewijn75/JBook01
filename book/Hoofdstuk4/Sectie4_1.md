@@ -164,13 +164,99 @@ In fig. 58 is te zien dat de invloed van de temperatuur op het waargenomen speet
 Als een atoom in een aangeslagen toestand B (energie $E_\text{B}$ ) geheel aan zichzelf wordt overgelaten, dus geen botsingen ondervindt en geen straling ontvangt, dan zal het na zeer korte tijd terugvallen tot een lagere toestand A (energie $E_\text{A}$ ) onder uitzending van een foton. Bij een botsing zal de kans op aanslag groter zijn naarmate de temperatuur hoger is. Bij hogere temperatuur is zowel de fractie deeltjes met voldoende snelheid als het aantal fotonen groter. Het aantal deeltjes dat zich in een aangeslagen toestand bevindt neemt toe met de temperatuur. De **verdelingswet van Boltzmann** geeft aan hoe de bezetting van de energienivo's van de temperatuur afhangt.
 
 $$
-\frac{n_\text{B}}{n_\text{A}} = a(B,A)e^{-(E_\text{B}-E_\text{A})/kT}
+\frac{n_\text{\tiny{B}}}{n_\text{\tiny{A}}} = a(B,A)e^{-(E_\text{B}-E_\text{A})/kT}
 $$ (4_1)
 
-$n_\text{A}, n_\text{B}$ = aantal atomen per volume in toestand A, B (bezetting)
+$n_\text{\tiny{A}}, n_\text{\tiny{B}}$ = aantal atomen per volume in toestand A, B (bezetting)
 
 De toestanden worden vanaf de grondtoestand genummerd (A = 1).
 Tabel 4.1 geeft de resultaten voor atomair waterstof. Alleen bij zeer hoge temperaturen is de bezetting van hogere toestanden aanzienlijk.
+
+| T (K) | $\mathbf{n_2/n_1}$| $\mathbf{n_3/n_1}$| $\mathbf{n_{10}/n_1}$|
+|-------|-----------------|----------------|----------------|
+| 3000  | $2,9·10^{-20}$  | $4,4·10^{-20}$ | $2,4·10^{-21}$ |
+| 5000  | $2,1·10^{-10}$  | $5,9·10^{-12}$ | $2,7·10^{-12}$ |
+| 10000 | $2,9·10^{-5}$   | $7,3·10^{-6}$  | $1,6·10^{-5}$  |
+| 20000 | $1,1·10^{-2}$   | $8,0·10^{-3}$  | $4,0·10^{-2}$  |
+| 40000 | $0,2$           | $0,3$          | $2,0$          |
+
+TABEL 4.1 Bezetting van de toestanden in atomair waterstof volgens de verdelingswet van Bolzmann.
+
+De bezetting van hogere energietoestanden neemt toe met de temperatuur. Het aantal overgangen tussen aangeslagen nivo's neemt toe. De absorptiecoëfficient voor verval tussen aangeslagen toestanden neemt toe: de sterkte van die absorptielijnen neemt toe.
+
+## §4.9 Atomen en ionen
+Als atomair gas wordt verhit, zullen er ionen ontstaan en vrije elektronen; die ionen en elektronen kunnen weer recombineren. Het evenwicht tussen de aantallen atomen, ionen en elektronen kunnen we weergeven door een evenwichtsvergelijking:
+
+$$
+N_a = N_i + N_e
+$$ (4_2)
+
+$N_a, N_i$ en $N_e$ = aantal atomen (ionen, elektronen) per volume
+Het evenwicht hangt af van temperatuur, aantal aanwezige elektronen per volume en van de ionisatie-energie van de atomen.
+Net als bij de wet van Bolzmann neemt het aantal ionen toe met de temperatuur. **Een belangrijk verschil** is echter dat een aangeslagen atoom **spontaan** terug kan vallen naar een lagere toestand, terwijl een ion een elektron moet **ontmoeten** om te kunnen recombineren. Dat betekent dat de kans op recombinatie toeneemt met de elektronendichtheid Ne. De mate van aanslag (volgens Bolzmann) hangt dus alleen af van de temperatuur, de mate van ionisatie is ook afhankelijk van de elektronendichtheid.
+De **wet van Saha** geeft aan hoe de ionisatie van een en ander afhangt:
+
+$$
+\frac{N_i}{N_a} = C ·  \frac{\;T^{3/2}}{N_e} · \large{e}^{\raisebox{1ex}{$\frac{-E_i}{kT}$}}
+$$ (4_3)
+
+$E_i$ = ionisatie-energie van het atoom.
+De elektronendruk $P$, hangt af van elektronendichtheid en temperatuur volgens:
+
+$$
+P_e = N_e kT
+$$ (4_4)
+
+Dit geeft als resultaat:
+
+$$
+\frac{N_i}{N_a} = C ·  \frac{\;T^{5/2}}{P_e} · \large{e}^{\raisebox{1ex}{$\frac{-E_i}{kT}$}}
+$$ (4_5)
+
+In onderstaande tabel zijn de resultaten voor de verhouding Ni/Na van waterstof weergegeven
+
+|Pe → |0,1 N/m² 	|1 N/m²	|10 N/m²	|100 N/m²|
+|-:|-	|-	|-	|-|
+|Temp. ↓ |||||
+|3 000 K|$2,5·10^{-15}$	|$2,5·10^{-16}$	|$2,5·10^{-17}$	|$2,5·10^{-18}$|
+|5 000 K|$1,2·10^{-5}$	|$1,2·10^{-6}$	|$1,2·10^{-7}$	|$1,2·10^{-8}$|
+|10 000 K|$4,7·10^2$	|$47$	|$4,7$	|$4,7·10^{-1}$|
+|15 000 K|$2,5·10^5$	|$2,5·10^4$	|$2,5·10^3$	|$2,5·10^2$|
+|20 000 K|$7,1·10^6$	|$7,1·105$	|$7,1·10^4$	|$7,1·10^3$|
+|40 000 K|$2,1·10^9$	|$2,1·108$	|$2,1·10^7$	|$2,1·10^6$|
+
+TABEL 4.2 Ionisatiewet van Saha toegepast op waterstof. Ni/Na, afhankelijk van temperatuur en elektronendruk.
+
+In het waarneembare deel van de zonneatmosfeer varieert de elektronendruk van 0,1 N/m²  tot 100 N/m² en de temperatuur van 4000 - 7000 K. Waterstof zal daar dus grotendeels atomair zijn. Bovendien laat de wet van Bolzmann zien dat de atomen bijna allemaal in de grondtoestand zijn.
+
+## § 4.10 De chemische samenstelling van de sterren.
+Hoe kan men bepalen in welke **hoeveelheden** de verschillende elementen in de sterren voorkomen?
+Uit het voorgaande weten we dat de **sterkte** van een spektrale lijn afhangt van het aantal atomen (ionen) in een bepaalde energietoestand per m. Als een atoom uit energietoestand A door absorptie in energietoestand B komt, is het aantal deeltjes in de laagste energietoestand nA bepalend voor de sterkte van de lijn.
+Al eerder is opgemerkt dat de absorptiecoëfficiënt een maat is voor de sterkte van de lijn. Men gaat als volgt te werk:
+Meting van de sterkte van de lijn geeft een maat voor de absorptiecoëfficiënt. Daaruit vindt men (theoretisch) de bezettingsdichtheid voor het niveau waaruit excitatie plaatsvindt (nA). Vervolgens kan men met de verdelingswet van Boltzmann de aantallen deeltjes in andere energietoestanden uitrekenen, zodat men tenslotte voor het element het totaal aantal atomen (ionen) per m kent.
+(Is het element over meer dan één ionisatietoestand verdeeld, dan moet het totaal aantal deeltjes met de **wet van SAHA** worden bepaald.
+Het resultaat van deze tijdrovende analyses is voor de Zon samengevat in de tabel hieronder. 
+
+
+We zien dat de Zon voor het grootste gedeelte uit waterstof bestaat, met flink wat helium en zeer weinig zwaardere elementen. Deze samenstelling wijkt sterk af van de samenstelling van de Aarde (met de zee en de dampkring), waarin relatief veel minder waterstof en helium voorkomt.
+Dergelijke analyses zijn ook voor een aantal sterren uitgevoerd. Men vindt zo dat binnen de foutengrenzen van deze analyses verreweg de meeste sterren dezelfde chemische samenstelling hebben als de Zon. Slechts enkele categorieën van schaarse sterren wijken duidelijk af. Zowel de overeenkomsten als de verschillen roepen vragen op naar de oorzaken. In het volgende hoofdstuk ordenen wij de grote verscheidenheid in spectra en helderheden van sterren om tot een beter inzicht van overeenkomsten en verschillen te komen.
+
+
+Chemische samenstelling van de zon (relatieve aantallen deeltjes)
+|element	|%|
+|-	|-|
+|H	|90|
+|He	|10|
+|C	|0,04|
+|N	|0,01|
+|O	|0,06|
+|Ne	|0,03|
+|Na	|0,00015|
+|Mg	|0,003|
+|Si	|0,004|
+|Fe	|0,003|
+|overige	|0,04|
+
 
 
 
