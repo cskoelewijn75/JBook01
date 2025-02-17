@@ -60,8 +60,13 @@ De volgende vuistregel geldt: Een planeet kan een bepaald gas voor verschillende
 De kans dat een molecuul dicht bij het oppervlak zal ontsnappen is verwaarloosbaar klein. De gemiddelde vrije weglengte van een molekuul is erg klein ais de gasdichtheid hoog is (zie fig. 44). 
 
 
-FIGUUR 44 Dicht bij het oppervlak is de gemiddelde vrije weglengte kleiner dan hoog in de atmosfeer. Het ontsnappende molecuul begint vlak bij de kritische laag.
-
+``` {figure} ../figures/fig44.jpg
+---
+width: 80%
+name: fig44
+---
+Dicht bij het oppervlak is de gemiddelde vrije weglengte kleiner dan hoog in de atmosfeer. Het ontsnappende molecuul begint vlak bij de kritische laag.
+```
 
 Dus een molecuul dat ontsnapt zal waarschijnlijk vertrekken uit de allerhoogste lagen van de atmosfeer. De **kritieke laag** is gedefinieerd als die hoogte waarbij een molecuul dat recht omhoog beweegt een kans 1/e heeft om een ander molecuul te raken. Het deel van de atmosfeer boven de kritieke laag wordt de **exosfeer** genoemd. De exosfeer van de Aarde begint op een hoogte van 500 l, waar de temperatuur van het gas 1500 - 2000 K is en de druk lager dan het beste aardse vacuum.
 In onderstaande tabel zijn enige kerngegevens voor Zon, Aarde en Maan weergegeven:

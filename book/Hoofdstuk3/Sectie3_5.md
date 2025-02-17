@@ -10,7 +10,12 @@ Van alle hemellichamen staat de maan het dichtst bij de Aarde. De gemiddelde afs
 ### § 3.5.3 Schijngestalten van de maan. 
 De maan kan natuurlijk nooit geheel door de Zon verlicht worden. Het zonlicht komt van één kant en de maan is dus altijd maar voor de helft verlicht. Omdat de maan om de Aarde heen draait, staat zij steeds op een andere plaats aan de hemel. Soms staat de maan min of meer in de richting van de Zon. We kijken dan tegen de onverlichte helft aan, zodat er niets te zien is. Dit heet nieuwe maan. Twee weken later staat de maan precies tegenover de Zon aan de hemeL Dan kijken we pal tegen het verlichte halfrond aan en is het volle maan. Halverwege die periode zijn er twee momenten waarop we precies van opzij tegen de schaduwgrens aankijken. We zien dan de ene helft verlicht en de andere helft is donker. Deze momenten worden eerste kwartier en laatste kwartier genoemd. De vormveranderingen van de maan zijn dus maar schijn: daarom spreken we van de schijngestalten van de maan. (zie figuur 34)
 
-FIGUUR 34: Schijngestalten van de maan.
+``` {figure} ../figures/fig34.jpg
+---
+width: 80%
+name: fig34
+---
+Schijngestalten van de maan.
 1= Nieuwe maan 
 2= 'wassende' maan
 3= 'wassende' maan, le kwartier 
@@ -19,7 +24,7 @@ FIGUUR 34: Schijngestalten van de maan.
 6= afnemende maan, nog bijna vol
 7= afnemende mann laatste kwartier 
 8= afnemende maan
-
+``` 
 
 Een paar dagen na nieuwe maan, wanneer de smalle maansikkel 's avonds kort na zonsondergang aan de westelijk hemel te zien is, kun je ook het donkere deel van de maan zien. Kennelijk is het op de nachthelft van de maan toch niet volledig donker.Wie de maan enige dagen goed bekijkt zal opmerken dat we steeds dezelfde kant van de maan zien. Dat komt omdat de maan geen eigen asdraaiing heeft zoals bijvoorbeeld de Aarde. Wèl maakt ze natuurlijk zelf één omwenteling gedurende één omloop om de Aarde in 27,3 dagen. Maar een eigen spin heeft de maan niet meer. De maan heeft ooit wèl een eigen spin gehad maar door wrijving tussen de binnenste- en buitenste lagen als gevolg van de getijdenkrachten die de Aarde op de maan uitoefent, is die spin gaan afnemen en tot nul gereduceerd. Ook bij de Aarde is een dergelijk proces, zij het zeer langzaam, aan de De eigen spin van de Aarde neemt zeer langzaam af:
 een aardse dag zal dus steeds langer duren (en een aardse nacht dus ook). In een periode van zelfs een miljoen jaar is die afname echter ontzettend klein.
@@ -27,8 +32,14 @@ een aardse dag zal dus steeds langer duren (en een aardse nacht dus ook). In een
 ### § 3.5.4 Getijdenwerking.  
 De aantrekkingskrachten van de Maan en - in mindere mate van - de Zon veroorzaken op de Aarde eb en vloed. In fig. 35 zijn links zijn de watermassa's vereenvoudigd als bollen getekend. De Zon is ver naar beneden en buiten de figuur. Het lichaam dat het dichtste bij de Zon is wordt het sterkste aangetrokken en krijgt de grootste versnelling. Het bovenste lichaam is het verste weg van de Zon en krijgt de kleinste versnelling. In hun baan om de Zon zullen de lichamen zich van elkaar verwijderen.
 
-FIGUUR 35 Eb en vloed. De Aarde en het wateroppervlak (rechts) kunnen schematisch opgevat worden als  drie lichamen. 
 
+``` {figure} ../figures/fig35.jpg
+---
+width: 80%
+name: fig35
+---
+Eb en vloed. De Aarde en het wateroppervlak (rechts) kunnen schematisch opgevat worden als  drie lichamen. 
+``` 
 
 Rechts in de figuur zijn schematisch de Aarde en twee helften van de watermassa weergegeven. Om dezelfde reden als hiervoor vermeld zullen de drie "lichamen" verschillende versnellingen krijgen. Ze "verwijderen" zich van elkaar. Er ontstaat een vloed zowel naar de Maan toe als van de Maan af Tussen beiden is er eb. De periode van eb en vloed is ook de helft van de dagelijkse omloopperiode van de Maan om de Aarde (0,5 × 24u 50m = 12u 25m).
 Ook de Zon veroorzaakt getijden, maar in veel mindere mater dan de Maan, zie verg.
@@ -39,8 +50,27 @@ In zijn algemeenheid zal elke satelliet, die om een planeet draait getijden-werk
 De massa van de planeet is M, de afstand van de satelliet *a* en massa en straal van de twee helften van de satelliet *m* en *r* (zie fig. 36).
 
 
-FIGUUR 36 Bepaling getijdenkracht en limiet van Roche.
-
+``` {figure} ../figures/fig36_1.jpg
+---
+width: 80%
+name: fig36_1
+---
+Bepaling getijdenkracht en limiet van Roche.
+```
+``` {figure} ../figures/fig36_2.jpg
+---
+width: 80%
+name: fig36_2
+---
+Bepaling getijdenkracht en limiet van Roche.
+```  
+``` {figure} ../figures/fig36_3.jpg
+---
+width: 80%
+name: fig36_3
+---
+Bepaling getijdenkracht en limiet van Roche.
+``` 
 
 De twee kleine massa's trekken elkaar aan met een kracht:
 
@@ -108,25 +138,51 @@ Het bestaan van de planetoïdengordel tussen Mars en Jupiter is ook een gevolg v
 In fig. 37 is een foto te zien van de komeet Shoemaker-Levy. Deze is door een dichte nadering tot de planeet Jupiter door getijdenkrachten in vele stukken gescheurd. Bij de volgende nadering in juli 1994 zal de komeet op Jupiter storten.
 
 
-FIGUUR 37 De komeet Shoemaker/Levy, die uit 20 kernen bestaat.
-
+``` {figure} ../figures/fig37.jpg
+---
+width: 80%
+name: fig37
+---
+De komeet Shoemaker/Levy, die uit 20 kernen bestaat.
+```
 
 ### §3.5.6 Zons- en maansverduisteringen.
 In haar baan om de Aarde komt de maan soms zó precies tussen de Zon en de Aarde in te staan, dat ze voor ons de Zon geheel of gedeeltelijk verduistert. Dit is dan een totale of gedeeltelijke zonsverduistering (zie fig. 38). 
 
-FIGUUR 38 Zons- en maanverduistering
-
+``` {figure} ../figures/fig38.jpg
+---
+width: 80%
+name: fig38
+---
+Zons- en maanverduistering
+```
 
 We hebben bij dit verschijnsel geluk dat heel toevallig de schijnbare diameter van de maan ongeveer even groot is als die van de Zon d.w.z.: de Zon en de maan staan op dusdanige afstanden van de Aarde dat ze, vanaf de Aarde gezien, ongeveer even groot lijken. Dat geeft aanleiding tot schitterende verschijnselen.
 
-FIGUUR 39 Schijnbare zonne- en maanbaan aan de hemelboL De hoek tussen beide vlakken is 5°
+
+``` {figure} ../figures/fig39.jpg
+---
+width: 80%
+name: fig39
+---
+Schijnbare zonne- en maanbaan aan de hemelboL De hoek tussen beide vlakken is 5°
+```
 
 Een tweede voorwaarde is dus dat de maan èn exact in het eclipticavlak moet staan, èn op datzelfde moment tussen de Aarde en de Zon in moet staan. Dit is niet zo vaak het geval omdat de baan van de maan niet exact in het eclipticavlak ligt maar een hoek van 50 met dat vlak maakt, zie figuur 39. De knopen 'k' zijn de denkbeeldige snijpunten van de Zonen de maanbaan aan onze hemel. Alleen wanneer de maan zich in 'k' bevindt samen met de Zon kan er een totale zonsverduistering plaatsvinden.
 Figuur 40a toont de verschillende fasen van een totale zonsverduistering. De gearceerde  bol is de maan. Figuur 40b is een gedeeltelijke zonsverduistering. De maan staat dan nèt niet tussen de Zon en de Aarde in. Figuur 40c toont een ringvormige verduistering. Dit komt omdat de maanbaan om de Aarde niet exact cirkelvormig is maar een beetje elliptisch. Daarom staat de maan soms wat verder van de Aarde weg en is de schijnbare diameter iets kleiner. Als op dat moment een verduistering plaatsvindt krijg je een situatie als in figuur 40c.
 
-FIGUUR 40a: Totale verduistering
-FIGUUR 40b: Gedeeltelijke verduistering
-FIGUUR 40c: Ringvormige verduistering
+
+
+``` {figure} ../figures/fig40.jpg
+---
+width: 80%
+name: fig40
+---
+a) Totale verduistering
+b) Gedeeltelijke verduistering
+c) Ringvormige verduistering
+```
+
 
 Een maansverduistering vindt plaats wanneer de Aarde precies tussen de Zon en de maan in komt te staan (zie fig. 38). Wij zien dan een verduistering omdat de maan geen licht van de Zon ontvangt.
 Meestal is de maan bij zo'n verduistering donkerrood van kleur. Dit komt omdat er via de aardse dampkring toch nog wat licht op de maan valt. Dit licht wordt door de dampkring gebroken en kan zo toch de maan bereiken. Omdat het **blauwe licht** sterker verstrooid wordt door de dampkring zal het hoofdzakelijk **rood licht** zijn dat de maan bereikt.

@@ -20,7 +20,14 @@ Bekend op Jupiter is de zogenaamde '**rode vlek**'. Dit is een enorme storm met 
 Saturnus is de op één na grootste planeet in ons zonnestelsel, heeft maarliefst 22 manen en is de verste planeet die met het blote oog nog te zien is.
 Saturnus is bekend om zijn ringen. Hoewel ook de andere reuzenplaneten allen een soort ringenstelsel hebben, is het ringenstelsel van Saturnus toch het meest bekend omdat deze al eeuwen geleden is waargenomen. Het ringenstelsel van Saturnus bestaat uit brokken steen en ijs. De dikte van het ringenstelsel is zo'n 20 km, de breedte zo'n 274.000 km. Ook hiervoor geldt dat de getijdenwerking van de (grote) planeet 'maanvorming' te dicht bij de planeet heeft voorkomen.
 
-FIGUUR 41: De baan van Uranus
+``` {figure} ../figures/fig41.jpg
+---
+width: 80%
+name: fig41
+---
+De baan van Uranus
+```
+
 
 ### § 3.6.4 Uranus
 Uranus staat 2 keer zover van de Zon vandaan als Saturnus en is 4 keer zo groot als de Aarde. Wat betreft de afplatting, dichtheid en snelle aswenteling komt ze overeen met Jupiter en Saturnus. één ding is echter heel bijzonder: de omwentelingsas ligt bijna precies in het baanvlak: Uranus 'rolt' langs haar baan. Dit is te zien in figuur 41.

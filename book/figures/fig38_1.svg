@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 531.1 589.8">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #c9c900;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6 {
+        isolation: isolate;
+      }
+
+      .st0, .st2, .st3, .st6 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 17px;
+        font-weight: 700;
+      }
+
+      .st1 {
+        fill: #474747;
+        opacity: .4;
+        stroke: #a5a5a5;
+      }
+
+      .st1, .st4, .st7, .st8 {
+        stroke-linecap: round;
+      }
+
+      .st3 {
+        fill: #00ce00;
+      }
+
+      .st4 {
+        fill: #ccc;
+        opacity: .7;
+        stroke: #dfdfdf;
+      }
+
+      .st4, .st9, .st10, .st11, .st12, .st7, .st13, .st14, .st8, .st15 {
+        stroke-width: 1.4px;
+      }
+
+      .st9 {
+        fill: #fbfb86;
+      }
+
+      .st9, .st12, .st8 {
+        stroke: #dd0;
+      }
+
+      .st10 {
+        stroke: #00ce00;
+      }
+
+      .st10, .st11, .st12, .st7, .st8, .st15 {
+        fill: none;
+      }
+
+      .st11, .st14 {
+        stroke: #8282e8;
+      }
+
+      .st7, .st13 {
+        stroke: #000;
+      }
+
+      .st6 {
+        fill: #8282e8;
+      }
+
+      .st13 {
+        fill: #f9f9f9;
+      }
+
+      .st14 {
+        fill: #babaff;
+      }
+
+      .st15 {
+        stroke: #999;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle class="st11" cx="88.5" cy="711.8" r="532.9"/>
+    <ellipse class="st10" cx="341.9" cy="243.6" rx="181.2" ry="79.8"/>
+    <g>
+      <circle class="st13" cx="383.9" cy="166" r="9.1"/>
+      <circle class="st13" cx="352.8" cy="163.9" r="9.1"/>
+      <circle class="st13" cx="311" cy="164.9" r="9.1"/>
+      <circle class="st13" cx="410.7" cy="169.8" r="9.1"/>
+      <circle class="st13" cx="472.6" cy="188.3" r="9.1"/>
+    </g>
+    <path class="st4" d="M304,240.1l61.7,33.4L706.9,1.8l-362.1-196-40.8,434.3Z"/>
+    <g>
+      <path class="st8" d="M153.7,442.1l211.9-168.6"/>
+      <path class="st8" d="M304,240.1l-25.4,269.6"/>
+      <path class="st12" d="M273.9,529.8l103.6-272.7"/>
+      <path class="st12" d="M139.4,457l171.7-235.8"/>
+    </g>
+    <circle class="st14" cx="341.9" cy="243.6" r="38.1"/>
+    <circle class="st9" cx="201.8" cy="502.4" r="77.2"/>
+  </g>
+  <path class="st1" d="M311.1,221.2c23.9,9.3,46.1,21.2,66.4,36L478.6-8.9l-167.5,230.1Z"/>
+  <g>
+    <g>
+      <path class="st15" d="M377.5,257.2L478.6-8.9l-167.5,230.1"/>
+      <path class="st15" d="M304,240.1l40.8-434.3"/>
+      <path class="st15" d="M365.6,273.4L706.9,1.8"/>
+    </g>
+    <path class="st7" d="M237.1,50l104.6,22.6"/>
+    <path class="st7" d="M210.8,107.2l169.1,36.6"/>
+  </g>
+  <g>
+    <g id="trsvg74" class="st5">
+      <text class="st0" transform="translate(86.9 565.5)"><tspan x="0" y="0">Zon</tspan></text>
+    </g>
+    <g id="trsvg88" class="st5">
+      <text class="st3" transform="translate(56.2 307.8)"><tspan x="0" y="0">Baan van de Maan</tspan></text>
+    </g>
+    <g id="trsvg102" class="st5">
+      <text class="st6" transform="translate(24.5 172.3)"><tspan x="0" y="0">Baan van de Aarde</tspan></text>
+    </g>
+    <g id="trsvg116" class="st5">
+      <text class="st2" transform="translate(123 51.6)"><tspan x="0" y="0">Halfschaduw</tspan></text>
+    </g>
+    <g id="trsvg130" class="st5">
+      <text class="st2" transform="translate(131.4 109.8)"><tspan x="0" y="0">Schaduw</tspan></text>
+    </g>
+  </g>
+</svg>

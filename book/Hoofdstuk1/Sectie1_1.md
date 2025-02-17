@@ -8,10 +8,10 @@ Alle gegevens over afstanden, omlooptijden, massa's enz. staan in BINAS tabel 31
 
 Alle planeten bevinden zich nagenoeg in één plat vlak rond de Zon. Dit vlak heet het **eclipticavlak**.
 
-``` {figure} ../figures/PlanetenEclipticavlak.jpg
+``` {figure} ../figures/fig1.jpg
 ---
 width: 80%
-name: Planeten in het Eclipticavlak
+name: fig1
 ---
 Hier is een diagram van de locatie van de planeten met hun baaninclines - de hoeken in graden waarmee de baan van een planeet rond de zon gekanteld is ten opzichte van het eclipticavlak.
 ``` 
@@ -26,14 +26,17 @@ Soms zijn meteoroïden zó goot dat ze niet geheel verbranden in de atmosfeer. I
 De hele kleine meteoroïden worden zó sterk geremd door de atmosfeer, dat hun temperatuur niet hoog genoeg wordt om te verbranden. Ze zijn microscopisch van grootte en worden micro-meteorieten genoemd. Ze bedekken de Aarde als een laag stof. Vermoedelijk komen er miljoenen tonnen per jaar op Aarde neer.
 
 Verder worden we soms verrast door een bezoek van een **komeet**.	
-Kometen worden ook 'Haarsterren' genoemd (Komètès is Grieks voor langharig) maar die naam is onjuist. Ook een komeet is geen ster maar een brok materie, bestaande uit steen, metaal, stof, ijs enz. Kometen bewegen in sterk excentrische banen rond de Zon (zie FIGUUR 2).
+Kometen worden ook 'Haarsterren' genoemd (Komètès is Grieks voor langharig) maar die naam is onjuist. Ook een komeet is geen ster maar een brok materie, bestaande uit steen, metaal, stof, ijs enz. Kometen bewegen in sterk excentrische banen rond de Zon (zie figuur 2).
 
-![](../figures/Komeet.jpg)
 
-``` {figure} ../figures/Komeet.jpg
+
+``` {figure} ../figures/fig2.jpg
 ---
 width: 80%
 name: Komeet
 ---
 Gedeelte van de baan van een komeet
 ``` 	
+
+
+![](../figures/komeet.jpg)

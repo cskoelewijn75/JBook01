@@ -1,7 +1,16 @@
 ## § 2.6 Het ontstaan van het zonnestelsel
 De meest waarschijnlijk geachte theorie over het ontstaan van het zonnestelsel gaat uit van het volgende (zie fig. 14).
 
-FIGUUR 14 Samentrekkende gaswolk. De kern trekt bolvormig samen tot protoster, delen met hoog impulsmoment trekken samen in een schijf loodrecht op de rotatie-as.
+
+``` {figure} ../figures/fig14.jpg
+---
+width: 80%
+name: fig14
+---
+Samentrekkende gaswolk. De kern trekt bolvormig samen tot protoster, delen met hoog impulsmoment trekken samen in een schijf loodrecht op de rotatie-as.
+``` 
+
+
 
 
 Het zonnestelsel is ontstaan uit een grote, ronddraaiende gaswolk, waarvan de massa 3 á 4 keer die van de zon was. In de wolk kwamen elementen voor zwaarder dan helium, die ontstaan zijn in het binnenste van sterren uit vroegere generaties. Door de zwaartekracht ontstond kernvorming in het centrum.
@@ -12,7 +21,16 @@ Uiteindelijk ontstonden planetesimalen : lichamen ter grootte van een asteroïde
 De temperatuur in de oorspronkelijke wolk verklaart de verschillen in de chemische,, samenstelling van de planeten (zie hoofdstuk 3). De vluchtige elementen (zoals waterstof, en helium) zijn bijna helemaal afwezig in de binnenplaneten. Deze planeten zijn samengesteld uit zware materialen, waarvan de kondensatietemneratuur boven de 500 K ligt.
 
 
-FIGUUR 15. Temperatuurverdeling in het zonnestelsel tijdens de planeetvorming. De chemische samenstelling van de planeten is een gevolg hiervan. De benaderde kondensatie-temperaturen van verschillende verbindingen is aangegeven.
+
+``` {figure} ../figures/fig15.jpg
+---
+width: 80%
+name: fig15
+---
+Temperatuurverdeling in het zonnestelsel tijdens de planeetvorming. De chemische samenstelling van de planeten is een gevolg hiervan. De benaderde condensatie-temperaturen van verschillende verbindingen is aangegeven.
+``` 
+
+
 
 De oorspronkelijke abundantie van deze materialen in de oorspronkelijke wolk was 0,4%, zodat de massa's van deze planeten relatief klein is.
 Op de afstand van Mercurius was de temperatuur ongeveer 1400 K. Bij deze temperaturen beginnen ijzer en nikkel te condenseren. De relatieve abundantie van deze verbindingen is het grootst op Mercurius en het kleinste op Mars, waar de temperatuur slechts 450 K was. Daarentegen is de hoeveelheid ijzeroxide op Mars weer relatief groot, terwijl dat op Mercurius nauwelijks aanwezig is (zie fig. 15).
@@ -22,6 +40,21 @@ Ten gevolge van planetaire verstoringen werden lichamen in onstabiele banen inge
 Het begin van de kernreacties op de zon betekende het einde van de planeetvorming. De zon verloor massa door een sterke zonnewind. Het massaverlies reikte tot een hoogte van $10^{-7}M_{\text{zon}}/\text{jaar}$ . Echter deze fase was relatief kort en het totale massaverlies was niet groter dan een tiende van de huidige zonnemassa. De zonnewind "blies" al het interplanetaire gas en stof weg zodat de "stofzuigende werking" van de planeten ophield.
 
 
-FIGUUR 16 De verdeling van asteroïden volgens hun afstand tot de zon laat groepen en gapingen zien. De meeste asteroïden zijn in de hoofdgordel, tussen 2,1 en 3,3 AE. Effecten van resonanties (plaatsen waar de omloopstijd van een lichaam gedeeld door die van Jupiter een exacte rationale breuk is) zijn ook zichtbaar.
 
-FIGUUR 17 Schets van de banen van de asteroïden tussen Mars en Jupiter
+``` {figure} ../figures/fig16.jpg
+---
+width: 80%
+name: fig16
+---
+De verdeling van asteroïden volgens hun afstand tot de zon laat groepen en gapingen zien. De meeste asteroïden zijn in de hoofdgordel, tussen 2,1 en 3,3 AE. Effecten van resonanties (plaatsen waar de omloopstijd van een lichaam gedeeld door die van Jupiter een exacte rationale breuk is) zijn ook zichtbaar.
+``` 
+
+
+
+``` {figure} ../figures/fig17.png
+---
+width: 80%
+name: fig17
+---
+Schets van de banen van de asteroïden tussen Mars en Jupiter
+``` 

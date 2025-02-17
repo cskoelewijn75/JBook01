@@ -1,1 +1,3 @@
-# Hoofdstuk 8 STERRENSTELSELS
+# Hoofdstuk 8 
+
+## STERRENSTELSELS

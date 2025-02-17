@@ -38,8 +38,15 @@ In 1772 waren de planeten tot en met Saturnus bekend. In 1781 werd Uranus ontdek
 de regel. Daarom besloten de Europese
 sterrenkundigen vanaf 1796 (congres te Gotha) systematisch naar de ontbrekende planeet bij n = 3 te gaan speuren. In 1801 ontdekte Piazzi de planetoïde Ceres precies op een afstand van 2.8 AE ! In later jaren werden vele andere planetoïden ontdekt (Pallas, Juno, Vesta, enz. ) Nu zijn er zo'n 10.000 bekend, waarvan 2000 met nauwkeurige banen. De afmetingen zijn meestal tussen 20 en 50 km. In fig. 42 is de planetoïdengordel weergegeven (zie ook §2.7 en de figuren 16 en 17) met enkele uitzonderlijke banen.
 
-FIGUUR 42 De planetoïdengordel, met enkele bijzondere banen
 
+
+``` {figure} ../figures/fig42.jpg
+---
+width: 80%
+name: fig42
+---
+De planetoïdengordel, met enkele bijzondere banen
+```
 
 Tegenwoordig wordt aangenomen dat de planetoïden tegelijk met de planeten werden gevormd, maar dat ze door de sterke getijdenkrachten van Jupiter nooit in staat zijn geweest om grote planeten te vormen.
 Ten gevolge van resonantie-effecten met de beweging van Jupiter komen op bepaalde afstanden nauwelijks planetoïden voor (verg. §2.7), op andere plaatsen juist extra veel zoals de Trojanen, die in dezelfde baan als Jupiter bewegen op 60° afstand van Jupiter, zowel er voor als er na.
@@ -51,7 +58,14 @@ Kometen bewegen in sterk excentrische banen rond de Zon.
 De meeste tijd bevindt een komeet zich op grote afstand van de Zon. Komt hij dichter bij de Zon dan zullen de vluchtige stoffen door de zonnewarmte verdampen. Rond de kern van de komeet ontstaat dan een gaswolk gemengd met stofdeeltjes, de COMA genaamd. Komt de komeet op een paar AE van de Zon dan kan de **zonnewind** ervoor zorgen dat de stofdeeltjes worden weg'geblazen' en de **stralingsdruk** van de Zon zorgt ervoor dat de gasdeeltjes worden geïoniseerd. De zonnewind is een stroom van geladen deeltjes (protonen, elektronen) die de Zon in grote hoeveelheden uitstoot. De stralingsdruk van de Zon is de druk ten gevolge van de fotonenstroom die tegen de gasdeeltjes botsen. De komeet krijgt nu 2 staarten: De ionen worden door de zonnewind weggeblazen. De **PLASMA-** of **IONSTAART** is altijd recht van de Zon afgericht. De door de zonnewind weggeblazen ionen hebben snelheden van 1 tot 400 km/sec.
 De stofdeeltjes worden ook weggeblazen maar niet zo sterk. Het gevolg is dat de STOFSTAART gebogen is en van de Zon afgekeerd. (Zie figuur 43)
 
-FIGUUR 43 Schematische voorstelling van een komeet. De afmetingen van de delen zijn in werkelijkheid: Kern (1-10 km), Coma ($10^4$ - $10^5$ km), Plasmastaart ($10^6$ km), Stofstaart ($10^6$ km), Waterstofmantel ($10^7$ km)
+
+``` {figure} ../figures/fig43.jpg
+---
+width: 80%
+name: fig43
+---
+Schematische voorstelling van een komeet. De afmetingen van de delen zijn in werkelijkheid: Kern (1-10 km), Coma ($10^4$ - $10^5$ km), Plasmastaart ($10^6$ km), Stofstaart ($10^6$ km), Waterstofmantel ($10^7$ km)
+```
 
 Hoewel beide staarten dus van de Zon afgekeerd zijn, kunnen wij hier op Aarde afhankelijk van de richting waarin wij de komeet zien, beide staarten wel, eens in tegengestelde richting waarnemen.
 Meer dan 1000 kometen zijn al waargenomen. De meeste hebben een omloopstijd van 1000 tot zelfs een miljoen jaar. Een bekende komeet is die van Halley met een omloopstijd van 76 jaar. Hij passeerde de Aarde voor het laatst in 1986 en is dus in 2062 weer te verwachten.

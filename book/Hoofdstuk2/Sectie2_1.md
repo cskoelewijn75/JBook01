@@ -1,9 +1,17 @@
 ## § 2.1 Het begin
 
 Algemeen veronderstelt men nu dat 13,8 miljard jaar geleden alle materie en energie uit ons heelal gecreëerd is tijdens een enorme explosie: de Oerknal of ook wel de 'Big Bang' genoemd.
-Hoewel we alleen maar kunnen speculeren over wat er aan de Oerknal vooraf is gegaan (een implosie van een vorig heelal? de explosie van een enorm zwart gat?) zijn er nu redelijke modellen over wat er na de knal is gebeurd. In figuur 10 is het temperatuurverloop in het steeds groter wordende heelal gegeven als funktie van de tijd.
+Hoewel we alleen maar kunnen speculeren over wat er aan de Oerknal vooraf is gegaan (een implosie van een vorig heelal? de explosie van een enorm zwart gat?) zijn er nu redelijke modellen over wat er na de knal is gebeurd. In figuur 10 is het temperatuurverloop in het steeds groter wordende heelal gegeven als functie van de tijd.
 
-FIGUUR 10 Temperatuurverloop van materie en straling vóór de ontkoppeling. Vertikaal de temperatuur, horizontaal de tijd na het begin.
+FIGUUR 10 
+
+``` {figure} ../figures/fig10.jpg
+---
+width: 80%
+name: Temperatuurverloop vóór ontkoppeling
+---
+Temperatuurverloop van materie en straling vóór de ontkoppeling. Vertikaal de temperatuur, horizontaal de tijd na het begin.
+``` 
 
 Uit de modellen volgt dat de straal van het heelal omgekeerd evenredig is met de temperatuur:
 

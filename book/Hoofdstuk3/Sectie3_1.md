@@ -6,9 +6,15 @@ Figuur 18 toont een doorsnede van de Zon. Te zien is dat de Zon veel groter is d
 De temperatuur van de corona is **hoger** dan aan het oppervlak: zo'n 1,5 miljoen Kelvin. Dit komt waarschijnlijk door de opborrelende gasbellen in de fotosfeer (convectie), die wekken schokgolven op in de bovenliggende atmosfeer. Deze golven planten zich naar buiten voort en transporteren de energie. De dichtheid van de corona is zo klein, dat het de van de schokgolven overgenomen energie slechts bij hoge temperaturen kan uitstralen.
 
 
-FIGUUR 18: Doorsnede van de Zon
-a. kernfusiegebied b. stralingsgebied c. convectiegebied d. fotosfeer e. chromosfeer f. corona
 
+``` {figure} ../figures/fig18.jpg
+---
+width: 80%
+name: fig18
+---
+Doorsnede van de Zon
+a. kernfusiegebied b. stralingsgebied c. convectiegebied d. fotosfeer e. chromosfeer f. corona
+``` 
 
 ### §3.1.1 De atmosfeer
 De zonneatmosfeer is verdeeld in de fotosfeer en de chromosfeer. Buiten de echte atmosfeer strekt de corona zich veel verder uit.
@@ -22,7 +28,13 @@ Buiten de fotosfeer is er een laag, ongeveer 500 km dik, waar de temperatuur opl
 
 
 
-FIGUUR 19 Randverzwakking
+``` {figure} ../figures/fig19.jpg
+---
+width: 80%
+name: fig19
+---
+Randverzwakking
+``` 
 
 
 ### §3.1.2. Zonnevlekken
@@ -30,7 +42,14 @@ Op de Zon zijn af en toe donkere vlekken waar te nemen. Deze donkere vlekken het
 Ze hebben diameters tot 50.000 km. Deze gebieden steken donker af tegen de fotosfeer omdat hun temperatuur 1500 K lager is. Dit wordt veroorzaakt door het magneetveld in de vlek dat de convectie remt, die normaliter de energie van de zon van binnen naar buiten vervoert. De convectie kan nu alleen langs de veldlijnen plaatsvinden (het gas is lichtelijk geïoniseerd en daarom een goede geleider) en breidt zich vlak bij het oppervlak zijdelings uit. Het gas stroomt naar weerszijden weg met snelheden van 1 tot 2 km/s.
 De leeftijd varieert van enkele uren tot enkele maanden. Ze verplaatsen zich zeer langzaam t.o.v. het zonoppervlak.
 
-FIGUUR 20 Het aantal zonnevlekken van 1700 tot 1977. De periode van de variatie is ongeveer 11 jaar.
+
+``` {figure} ../figures/fig20.jpg
+---
+width: 80%
+name: fig20
+---
+Het aantal zonnevlekken van 1700 tot 1977. De periode van de variatie is ongeveer 11 jaar.
+``` 
 
 De variatie van het aantal zonnevlekken is al bijna 250 jaar gevolgd.
 In figuur 20 is het aantal zonnevlekken als funktie van de tijd te zien. Het aantal varieert met een gemiddelde periode van 11 jaar.
@@ -43,13 +62,37 @@ d.	Op een zeker moment wordt het veld zo sterk dat de fluxbuis naar buiten gedre
 e.	In het evenaargebied neutraliseren de vlekkengroepen elkaar. De poolwaarts bewegende groepen neutraliseren de velden van de polen en doen deze tenslotte van polariteit omkeren.
 f.	De cyclus kan opnieuw beginnen. Na 22 jaar is de oude toestand weer hersteld.
 
-FIGUUR 21 Door de differentiële rotatie van de zon worden de magnetische veldlijnen van de zon steeds strakker opgewonden. Uiteindelijk wordt de richting van het veld omgedraaid.
 
-FIGUUR 22 Een fluxbuis tussen twee zonnevlekken. Materiaal dat langs de veldlijnen stroomt vormt een protuberans.
+``` {figure} ../figures/fig21.jpg
+---
+width: 80%
+name: fig21
+---
+Door de differentiële rotatie van de zon worden de magnetische veldlijnen van de zon steeds strakker opgewonden. Uiteindelijk wordt de richting van het veld omgedraaid.
+``` 
+
+
+
+``` {figure} ../figures/fig22.jpg
+---
+width: 80%
+name: fig22
+---
+Een fluxbuis tussen twee zonnevlekken. Materiaal dat langs de veldlijnen stroomt vormt een protuberans.
+``` 
 
 Zoals in fig. 21d. en e. te zien is komen de zonnevlekken vaak in paren voor, waarvan de velden tegengestelde richting hebben. Het magnetische veld van het paar rijst omhoog in een lus buiten het oppervlak (zie fig. 22). Waneer gas langs zo'n lus stroomt van de ene vlek naar de andere wordt het zichtbaar als een **protuberans**.
 
-FIGUUR 23 Positie van zonnevlekken tegen de tijd. Ze bewegen van hogere breedtegraden naar de evenaar.
+
+``` {figure} ../figures/fig23.jpg
+---
+width: 80%
+name: fig23
+---
+Positie van zonnevlekken tegen de tijd. Ze bewegen van hogere breedtegraden naar de evenaar.
+``` 
+
+
 
 Tijdens de cyclus verschijnen de vlekken het eerst ongeveer op de 40ste breedtegraad. In fig. 23 is de experimenteel waargenomen positie van de vlekken weergegeven.
 

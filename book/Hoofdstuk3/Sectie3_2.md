@@ -2,8 +2,13 @@
 ### §3.2.1 Een overzicht 
 De beweging van de planeten wordt bepaald door de zwaarteacht. De banen van de planeten rond de zon (zie fig. 24) zijn ellipsbanen, die nagenoeg in één vlak liggen en slechts weinig van cirkels verschillen.
 
-FIGUUR 24 a. Planeetbanen van Mercurius tot Mars. Het gestreepte deel ligt onder de ecliptica; de pijlen geven de afgelegde afstand in één maand. b. Planeten van Jupiter tot Pluto. De pijlen geven de afgelegde afstand in één Jaar.
-
+``` {figure} ../figures/fig24.jpg
+---
+width: 80%
+name: fig24
+---
+a. Planeetbanen van Mercurius tot Mars. Het gestreepte deel ligt onder de ecliptica; de pijlen geven de afgelegde afstand in één maand. b. Planeten van Jupiter tot Pluto. De pijlen geven de afgelegde afstand in één Jaar.
+``` 
 
 De binnenste en de buitenste planeet, Mercurius en Pluto, hebben de grootste afwijkingen. Alle planeten draaien in dezelfde richting rond. De meeste manen draaien in dezelfde richting om hun planeet als de planeet om de zon draait.
 De planeten worden in twee fysisch verschillende groepen verdeeld. Mercurius, Venus, de Aarde en Mars worden **aardse planeten** genoemd; ze hebben een vast oppervlak en zijn van dezelfde orde van grootte. Ook hun gemiddelde dichtheid is ongèveer even goot (4000-5000 kg/m³). Jupiter, Saturnus en Neptunus worden de **reuzenplaneten** genoemd. De dichtheid varieert van 1000-2000 kg/m³ en het grootste deel van hun volume is vloeibaar. Pluto wordt sinds 2006 niet langer als een planeet beschouwd maar geclassificeerd als een **dwergplaneet**.
@@ -13,9 +18,27 @@ Sinds de zestiger jaren worden de planeten door satellieten in de ruimte onderzo
 ### §3.2.2 Planeetbanen gezien vanaf de aarde 
 De schijnbare beweging van de planeten is ingewikkeld, gedeeltelijk als gevolg van de beweging van de aarde om de zon (zie fig. 25). Normaal bewegen de planeten oostwaarts (**directe** beweging, tegen de klok in op ons halfrond) t.o.v. de achtergrond van vaste sterren. Soms draait de beweging van richting om: de **retrograde** beweging. Na een paar weken van retrograde beweging verandert de richting weer en beweegt de planeet in de oorspronkelijke richting.
 
-FIGUUR 25 a. Schijnbare beweging van Mars in 1984. b. Relatieve posities van de Aarde en Mars gedurende het eerste halfjaar. De projektie van de Aarde-Mars-lijn op de hemelbol geeft fig. a.
 
-FIGUUR 26  Bijzondere posities van binnen- en buitenplaneten
+``` {figure} ../figures/fig25.jpg
+---
+width: 80%
+name: fig25
+---
+a. Schijnbare beweging van Mars in 1984. b. Relatieve posities van de Aarde en Mars gedurende het eerste halfjaar. De projektie van de Aarde-Mars-lijn op de hemelbol geeft fig. a.
+``` 
+
+
+
+
+
+``` {figure} ../figures/fig26.jpg
+---
+width: 80%
+name: fig26
+---
+Bijzondere posities van binnen- en buitenplaneten
+``` 
+
 
 In fig. 26 zijn enige standen weergegeven. Een **buitenplaneet** (planeet buiten de baan van de Aarde) is **in oppositie** als hij precies tegenover de Zon staat, d.w.z. als de Aarde zich tussen de planeet en de Zon bevindt. Als de planeet zich achter de Zon bevindt is hij **in conjunctie**. Omdat de baanvlakken van de planeten niet exact samenvallen is dat zelden precies het geval. De punten waar de schijnbare beweging van een planeet van richting omkeert heten **stationaire punten**. De oppositie vindt plaats in het midden van de retrograde beweging. De buitenplaneten zijn rond de oostelijke **kwadratuur** aan de avondhemel en tijdens de oppositie nagenoeg de hele nacht zichtbaar.
 De **binnenplaneten** (Mercurius en Venus) zijn nooit in oppositie. Als ze zich tussen de Aarde en de Zon bevinden wordt dat **benedenconjunctie** genoemd. De conjunctie, die overeenkomt met die van de buitenplaneten wordt **bovenconjunctie genoemd**. De maximale (oostelijke of westelijke) **elongatie** is de hoek tussen de gezichtslijnen van de planeet en van de Zon. Voor Mercurius is dat 28° en voor Venus 47°.
@@ -81,6 +104,14 @@ TABEL 3.1 Theoretische en waargenomen temperaturen van sommige planeten
 |Jupiter	|0,73	|5,20	|110	|90	    |130|
 
 Bij Venus is de afwijking tussen theorie en experiment het grootst. De reden is het "broeikaseffect": straling kan wel naar binnen, maar kan er niet uit. Het zelfde effect is werkzaam in de aardatmosfeer.
-In fig. 27 zijn de stralingskrommen van de maan en de meeste planeten gegeven. Duidelijk is het verschil te zien tussen het direct teruggekaatste zonlicht, waarin de stralingskromme van de zon is te herkennen en de thermische straling van de planeet, die bepaald wordt door zijn eigen temperatuur.
+In fig. 29 zijn de stralingskrommen van de maan en de meeste planeten gegeven. Duidelijk is het verschil te zien tussen het direct teruggekaatste zonlicht, waarin de stralingskromme van de zon is te herkennen en de thermische straling van de planeet, die bepaald wordt door zijn eigen temperatuur.
 
-FIGUUR 27   Stralingskrommen van de maan en de planeten
+
+``` {figure} ../figures/fig29.svg
+---
+width: 80%
+name: fig29
+---
+Stralingskrommen van de maan en de planeten
+``` 
+
